@@ -1,0 +1,13 @@
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\obj\Debug\netcoreapp3.1\OrderProgram.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\obj\Debug\netcoreapp3.1\OrderProgram.AssemblyInfoInputs.cache
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\obj\Debug\netcoreapp3.1\OrderProgram.AssemblyInfo.cs
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\obj\Debug\netcoreapp3.1\OrderProgram.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\bin\Debug\netcoreapp3.1\OrderProgram.exe
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\bin\Debug\netcoreapp3.1\OrderProgram.deps.json
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\bin\Debug\netcoreapp3.1\OrderProgram.runtimeconfig.json
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\bin\Debug\netcoreapp3.1\OrderProgram.runtimeconfig.dev.json
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\bin\Debug\netcoreapp3.1\OrderProgram.dll
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\bin\Debug\netcoreapp3.1\OrderProgram.pdb
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\obj\Debug\netcoreapp3.1\OrderProgram.dll
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\obj\Debug\netcoreapp3.1\OrderProgram.pdb
+C:\Users\juan_\source\repos\OrderProgram\OrderProgram\obj\Debug\netcoreapp3.1\OrderProgram.genruntimeconfig.cache
